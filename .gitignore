@@ -35,3 +35,7 @@ Backup*
 
 # IAR .dep files
 *.dep
+/EWARM/printf-to-uart/.ninja_deps
+/EWARM/printf-to-uart/.ninja_log
+/EWARM/printf-to-uart/.printf-to-uart_build_cache
+/EWARM/printf-to-uart/BrowseInfo
